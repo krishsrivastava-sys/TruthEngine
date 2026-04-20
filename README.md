@@ -55,7 +55,7 @@ The easiest way to get started is using the automated setup script. Open your te
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/truthengine.git
+git clone https://github.com/krishsrivastava-sys/TruthEngine.git
 cd truthengine
 
 # 2. Make the script executable
