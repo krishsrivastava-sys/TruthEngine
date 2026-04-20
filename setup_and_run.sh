@@ -36,5 +36,4 @@ else
 fi
 
 # 4. Launch the application
-echo -e "${GREEN}🔥 Starting Express Server at http://localhost:5000${NC}"
 node app.js
